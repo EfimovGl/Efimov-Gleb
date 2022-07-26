@@ -1,2 +1,2 @@
 # Efimov-Gleb
-Stats and Perks 
+<h1 align='center'>Stats and Perks</h1><br/><br/>
