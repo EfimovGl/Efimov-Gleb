@@ -1,5 +1,5 @@
 # Efimov-Gleb
-<h1 align='center'>Stats and Perks</h1><br/><br/>
+<h1 align='center'>My tech stack:</h1><br/><br/>
 <p float = "left">
   <a href='https://en.wikipedia.org/wiki/SQL'>
     <img src="sql.svg" width="40px" height="40px"/>
