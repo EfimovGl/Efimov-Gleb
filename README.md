@@ -1,4 +1,4 @@
-# Efimov-Gleb
+# Efimov Gleb
 <h1 align='center'>My tech stack:</h1><br/><br/>
 <p float = "left">
   <a href='https://en.wikipedia.org/wiki/SQL'>
