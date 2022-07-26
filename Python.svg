@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg01" sodipodi:docname="python 01.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 40 40"
+	 style="enable-background:new 0 0 40 40;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#387EB8;}
+	.st1{fill:#FFC331;}
+	.st2{fill:#FFFFFF;}
+	.st3{display:none;}
+	.st4{display:inline;fill:#387EB8;}
+	.st5{display:inline;fill:#FFC331;}
+	.st6{display:inline;fill:none;stroke:#00FF00;stroke-width:20;}
+	.st7{display:inline;fill:none;stroke:#00FE00;stroke-width:20;}
+	.st8{display:inline;fill:#00FF00;}
+	.st9{display:inline;stroke:#000000;stroke-width:0.6;}
+</style>
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1.0" guidetolerance="27" id="base" inkscape:current-layer="layer4" inkscape:cx="300" inkscape:cy="300" inkscape:document-units="px" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:snap-text-baseline="true" inkscape:window-height="745" inkscape:window-maximized="1" inkscape:window-width="1304" inkscape:window-x="54" inkscape:window-y="-8" inkscape:zoom="1.0066667" objecttolerance="18" pagecolor="#ffffff" showgrid="true" units="px">
+	<inkscape:grid  empspacing="6" id="grid3721" spacingx="10" spacingy="10" type="xygrid" units="px"></inkscape:grid>
+</sodipodi:namedview>
+<g id="layer1" inkscape:groupmode="layer" inkscape:label="Capa 1" sodipodi:insensitive="true">
+	<path id="path101" inkscape:connector-curvature="0" class="st0" d="M20,10.4H4.3c0,0-4.3,0-4.3,9.6s4.3,9.6,4.3,9.6h4.3
+		c0,0,0-0.9,0-4.3s2.6-6.1,6.1-6.1s7.8,0,10.4,0s4.4-1.7,4.4-4.4c0-2.7,0-10.4,0-10.4S29.6,0,20,0s-9.6,4.3-9.6,4.3v4.3H20V10.4z"/>
+	<path id="path102" inkscape:connector-curvature="0" class="st1" d="M20,29.6h15.7c0,0,4.3,0,4.3-9.6s-4.3-9.6-4.3-9.6h-4.3
+		c0,0,0,0.9,0,4.3s-2.6,6.1-6.1,6.1s-7.8,0-10.4,0s-4.3,1.7-4.3,4.3s0,10.4,0,10.4s0,4.3,9.6,4.3s9.6-4.3,9.6-4.3v-4.3H20V29.6z"/>
+	<circle id="path103" class="st2" cx="14.8" cy="4.3" r="1.7"/>
+	<circle id="path104" class="st2" cx="25.2" cy="35.7" r="1.7"/>
+</g>
+<g id="layer2" inkscape:groupmode="layer" inkscape:label="Capa 2" sodipodi:insensitive="true" class="st3">
+	<path id="path201" inkscape:connector-curvature="0" class="st4" d="M-160-100c0,0-60,0-60,120s60,120,60,120h60c0,0,0-30,0-60
+		s20-60,60-60c0,0,80,0,120,0s59.6-29.5,60-60s0-120,0-120s1-58.9-120-60s-120,60-120,60v60H-160z"/>
+	<path id="path202" inkscape:connector-curvature="0" class="st5" d="M200,140c0,0,61.8-12.1,60.9-122.1C260-100,200-100,200-100
+		h-60v60c0,30-20,60-60,60c0,0-80,0-120,0s-60,30-60,60s0,120,0,120s10,59.7,120,59.9C140,260,140,200,140,200v-60H200z"/>
+</g>
+<g id="layer3" inkscape:groupmode="layer" inkscape:label="Capa 3" sodipodi:insensitive="true" class="st3">
+	<path id="path301" inkscape:connector-curvature="0" class="st6" d="M-100-100v-60c0,0,0-60,120-60s120,60,120,60s0,80,0,120
+		s-30,60-60,60s-90,0-120,0s-60,20-60,60s0,120,0,120s0,60,120,60s120-60,120-60v-60"/>
+	<path id="path302" inkscape:connector-curvature="0" class="st6" d="M20-100h-180c0,0-60,0-60,120s60,120,60,120h60"/>
+	<path id="path303" inkscape:connector-curvature="0" class="st7" d="M140-100h60c0,0,60,0,60,120s-60,120-60,120H20"/>
+	<circle id="path304" class="st8" cx="-40" cy="-160" r="20"/>
+	<circle id="path305" class="st8" cx="80" cy="200" r="20"/>
+</g>
+<g id="layer4" inkscape:groupmode="layer" inkscape:label="Capa 4" sodipodi:insensitive="true" class="st3">
+	<path id="path401" inkscape:connector-curvature="0" class="st9" d="M-250-220h540"/>
+	<path id="path402" inkscape:connector-curvature="0" class="st9" d="M-130-160h300"/>
+	<path id="path403" inkscape:connector-curvature="0" class="st9" d="M-250-100h540"/>
+	<path id="path404" inkscape:connector-curvature="0" class="st9" d="M50-40h120"/>
+	<path id="path405" inkscape:connector-curvature="0" class="st9" d="M-250,20h540"/>
+	<path id="path406" inkscape:connector-curvature="0" class="st9" d="M-130,80h120"/>
+	<path id="path407" inkscape:connector-curvature="0" class="st9" d="M-250,140h540"/>
+	<path id="path408" inkscape:connector-curvature="0" class="st9" d="M-130,200h300"/>
+	<path id="path409" inkscape:connector-curvature="0" class="st9" d="M-250,260h540"/>
+	<path id="path410" inkscape:connector-curvature="0" class="st9" d="M-220-250v540"/>
+	<path id="path411" inkscape:connector-curvature="0" class="st9" d="M-160,170v-300"/>
+	<path id="path412" inkscape:connector-curvature="0" class="st9" d="M-100-250v540"/>
+	<path id="path413" inkscape:connector-curvature="0" class="st9" d="M-40-250v180"/>
+	<path id="path414" inkscape:connector-curvature="0" class="st9" d="M-40-10v120"/>
+	<path id="path415" inkscape:connector-curvature="0" class="st9" d="M20-250v540"/>
+	<path id="path416" inkscape:connector-curvature="0" class="st9" d="M80-70V50"/>
+	<path id="path417" inkscape:connector-curvature="0" class="st9" d="M80,110v180"/>
+	<path id="path418" inkscape:connector-curvature="0" class="st9" d="M140-250v540"/>
+	<path id="path419" inkscape:connector-curvature="0" class="st9" d="M200,170v-300"/>
+	<path id="path420" inkscape:connector-curvature="0" class="st9" d="M260-250v540"/>
+</g>
+</svg>
